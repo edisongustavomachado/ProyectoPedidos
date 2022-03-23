@@ -1,1 +1,3 @@
 AQUI PUEDES ADJUNTAR TODAS LAS DUDAS QUE TENGAS, PARA ESTAR EN CONTACTO POR MEDIO DE GIT Y GITHUB 
+Una inquietud: Ya eliminé todos los archivos txt desde la consola, sin embargo, en el github siguen apareciendo
+En mi github ya aparece la imágen del diseño web,, pero no se quitan los anteriores archivos que yo eliminé manualmente.
