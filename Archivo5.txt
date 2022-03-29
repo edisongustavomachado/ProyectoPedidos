@@ -1,2 +1,0 @@
-Configuración de roles de usuarios para el ingreso al sistema
-Tener en cuenta que se deben crear los permisos desde el cpanel
