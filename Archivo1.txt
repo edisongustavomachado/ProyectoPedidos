@@ -1,0 +1,2 @@
+Definición de la base de datos de materiales
+Tabla para materiales, herramientas y elementos de protección personalcleacelar
