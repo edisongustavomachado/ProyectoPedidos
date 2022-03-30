@@ -1,1 +1,0 @@
-Definir la interfaz gráfica, colores y objetos interactivos.

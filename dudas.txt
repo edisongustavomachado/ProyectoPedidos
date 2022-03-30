@@ -3,3 +3,5 @@ Una inquietud: Ya eliminé todos los archivos txt desde la consola, sin embargo,
 En mi github ya aparece la imágen del diseño web,, pero no se quitan los anteriores archivos que yo eliminé manualmente.
 
 Respuesta: Hola edision, a eliminar los archivos debes crear un nuevo commit donde estos archivos no estan, de esta manera no deberian aparecer mas. Yo en este nuevo commit eliminare el archivo5.txt. intenta con los demas despues, si no lo logras lo intentamos en clase :D 
+
+Inquietud: ¿Cómo se documenta el código que vayamos escribiendo?
