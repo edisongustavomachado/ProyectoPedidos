@@ -1,7 +1,11 @@
 AQUI PUEDES ADJUNTAR TODAS LAS DUDAS QUE TENGAS, PARA ESTAR EN CONTACTO POR MEDIO DE GIT Y GITHUB 
-Una inquietud: Ya eliminé todos los archivos txt desde la consola, sin embargo, en el github siguen apareciendo
-En mi github ya aparece la imágen del diseño web,, pero no se quitan los anteriores archivos que yo eliminé manualmente.
-
-Respuesta: Hola edision, a eliminar los archivos debes crear un nuevo commit donde estos archivos no estan, de esta manera no deberian aparecer mas. Yo en este nuevo commit eliminare el archivo5.txt. intenta con los demas despues, si no lo logras lo intentamos en clase :D 
 
 Inquietud: ¿Cómo se documenta el código que vayamos escribiendo?
+
+Respuesta: Hola edision puedes escribir comentarios html de la siguiente manera
+
+    <!-- <p>esto es un comentario</p> -->
+
+y dejar comentarios que requieras en el codigo html. esto no es una practica recomendada para html, pero para JavaScript si. mi recomendacion es que no documentes el codigo html pero si el JavaScript mas adelante. 
+
+si gustas trae esta duda al encuentro y lo charlamos.
