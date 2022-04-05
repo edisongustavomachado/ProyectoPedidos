@@ -1,11 +1,1 @@
 AQUI PUEDES ADJUNTAR TODAS LAS DUDAS QUE TENGAS, PARA ESTAR EN CONTACTO POR MEDIO DE GIT Y GITHUB 
-
-Inquietud: ¿Cómo se documenta el código que vayamos escribiendo?
-
-Respuesta: Hola edision puedes escribir comentarios html de la siguiente manera
-
-    <!-- <p>esto es un comentario</p> -->
-
-y dejar comentarios que requieras en el codigo html. esto no es una practica recomendada para html, pero para JavaScript si. mi recomendacion es que no documentes el codigo html pero si el JavaScript mas adelante. 
-
-si gustas trae esta duda al encuentro y lo charlamos.
