@@ -1,0 +1,12 @@
+table{
+    border-collapse: collapse;
+}
+th,td{
+    border-style: ridge;
+}
+tr>th{
+    background-color: rgb(48, 174, 224);    
+}
+tbody>tr:hover{
+    background-color: rgb(232, 233, 234);
+}
