@@ -1,3 +1,12 @@
+header{
+    background-color: rgb(222, 217, 217);
+    color: white;
+}
+header>h1{
+    color: rgb(68, 67, 65);
+    text-shadow: 2px 2px 3px rgb(41, 40, 39);
+}
+
 table{
     border-collapse: collapse;
 }
@@ -5,7 +14,7 @@ th,td{
     border-style: ridge;
 }
 tr>th{
-    background-color: rgb(48, 174, 224);    
+    background-color: rgb(252, 192, 10);    
 }
 tbody>tr:hover{
     background-color: rgb(232, 233, 234);
