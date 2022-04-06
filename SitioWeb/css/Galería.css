@@ -15,12 +15,12 @@ section img{
 
  .FotosGrupo1{    
     display: flex;
-    justify-content: space-between
+    justify-content: space-between;
     margin-bottom: 5%;
 }
 .FotosGrupo2{    
     display: flex;
-    justify-content: space-between
+    justify-content: space-between;
     margin-bottom: 5%;
 }
 
