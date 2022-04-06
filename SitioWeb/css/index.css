@@ -6,3 +6,10 @@ header>h1{
     color: rgb(68, 67, 65);
     text-shadow: 2px 2px 3px rgb(41, 40, 39);
 }
+header>nav>h2{
+    color: black;
+}
+footer{
+    background-color: rgb(41, 40, 39);
+    color: white;
+}

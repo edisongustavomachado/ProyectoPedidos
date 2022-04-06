@@ -55,5 +55,11 @@ form>button:hover{
 .recordarContraseña{
     padding-top: 30px;
     font-size: 15px;
-
+}
+header>nav>h2{
+    color: black;
+}
+footer{
+    background-color: rgb(41, 40, 39);
+    color: white;
 }
