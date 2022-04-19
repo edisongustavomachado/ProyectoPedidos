@@ -5,26 +5,32 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Aplicativo</title>
-    <link rel="stylesheet" href="/ProyectoPedidos/SitioWeb/css/Aplicativo.css">
-    <link rel="shortcut icon" href="/ProyectoPedidos/Assets/Head/favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" href="../css/Aplicativo.css">
+    <link rel="shortcut icon" href="../../Assets/Head/favicon.ico" type="image/x-icon">
 </head>
 <body>
-    <header>
-        <h1>INSTALACIONES ELÉCTRICAS</h1>
-        <nav>
-            <hr>
-            <a href="index.html"><img style="width: 20%;" src="../../Assets/logo.jpg" alt="Logo"></a>
-            <h2>APLICATIVO</h2>            
-            <ul>
-                <li><a href="NuestrosServicios.html">Nuestros Servicios</a></li>
-                <li><a href="Galería.html">Galería</a></li>
-                <li><a href="AcercaDeNosotros.html">Acerca de Nosotros</a></li>
-                <li><a href="Aplicativo.html">Aplicativo</a></li>
-            </ul>
-        </nav>
-    </header>
-    <br>
-    <section>
+    <header id="Cabecera">		
+		<a id="Logo" href="./index.html">
+			<span class="NombreSitio">Instalaciones Eléctricas</span>
+			<span class="Artículos">Contactores / Arrancadores / Variadores</span>
+		</a>
+		<nav>
+			<ul>
+				<li><a href="./index.html">Inicio</a></li>				
+				<li><a href="./Galería.html">Galería</a></li>
+				<li><a href="./AcercaDeNosotros.html">Acerca de</a></li>
+				<li><a href="./Aplicativo.html">Aplicativo</a></li>
+			</ul>
+		</nav>
+	</header>	
+	<section id="Contenido">	
+		<article>
+			<header>
+				<h1>Aplicativo</h1>
+			</header>	           
+		</article>	
+	
+    
         <form>
             <img src="../../Assets/Aplicativo/login.png" alt="Login">
             <input type="text" placeholder="Digite su usuario">
@@ -36,8 +42,8 @@
             </div>
         </form>
     </section>
-    <footer>
-        <address>Instalaciones Eléctricas</address>
-    </footer>
+	<footer id="Footer">
+		<p>&copy; 2022 <a href="#">Edison Machado</a></p>
+	</footer>
 </body>
 </html>
