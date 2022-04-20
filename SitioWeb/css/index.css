@@ -114,6 +114,11 @@ nav {
 	#Footer a {
 		color: white;
 	}
+	#Footer img{
+		width: 2%;
+	}
+
+
     #Cabecera {
         background: #333;
         color: white;

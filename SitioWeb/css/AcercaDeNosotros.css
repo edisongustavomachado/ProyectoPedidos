@@ -93,20 +93,49 @@ nav {
 	margin: 20px auto;
 	box-shadow: 0 0 10px rgba(0,0,0,.1);
 }
-
 	#Contenido header {
 		padding: 40px;
 	}
 
 
 
-	#Tablas {
-		background: white;
-		width: 90%;
-		max-width: 800px;
+	/*TABLA-----------------------------------------------------------------------------------------*/
+	table {
+		table-layout: fixed;
+		background: white;		
+		width: 80%;
 		margin: 20px auto;
 		box-shadow: 0 0 10px rgba(0,0,0,.1);
+		border: 1px solid #000;
+		border-collapse: collapse;
 	}
+	thead tr th {
+		text-align: center;
+	  }
+	th, td {		
+		text-align: left;
+		vertical-align: top;
+		border: 1px solid #000;	
+		caption-side: bottom;
+	 }
+	 caption {
+		padding: 0.3em;
+		color: #fff;
+		 background: rgb(249, 211, 59);
+	 }
+	 th {
+		background: #eee;
+	 }
+	 thead th:nth-child(1) {
+		width: 15%;
+	  }
+	  thead th:nth-child(3) {
+		width: 20%;
+	  }
+
+
+
+
 
 #Footer {
 	background: #333;
