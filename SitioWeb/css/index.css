@@ -52,12 +52,12 @@ img {
 		color: rgb(246, 246, 243);
 		
 	}
-	#Logo .Artículos {
+	/* #Logo .Artículos {
 		display: block;
 		font-weight: 300;
 		font-size: 0.8em;
 		color: #999;
-	}
+	} */
 	#Logo a{    
 		color: #1bf7ff;
     }
@@ -145,3 +145,6 @@ nav ul li {
 		width: 12%;
 	}
 
+	.logoVideo{
+		width: 10%;
+	}

@@ -101,7 +101,7 @@ nav {
 	display: flex;
 	flex-flow: column;
 	padding: 5px;
-	max-width: 220px;
+	max-width: 80%;
 	margin: auto;
 }
 #Contenido article figcaption{
