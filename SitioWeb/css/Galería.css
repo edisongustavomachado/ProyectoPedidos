@@ -47,7 +47,7 @@ img {
         color: #ffec1b;
 	}
     #Logo .NombreSitio:hover {		
-        color: rgb(242, 248, 71);
+        color: rgb(241, 241, 241);
 
 	}
 	#Logo .Artículos {
@@ -127,6 +127,10 @@ nav {
 	#Footer a {
 		color: white;
 	}
+
+	#Footer img{
+		width: 2%;
+	}
     #Cabecera {
         background: #333;
         color: white;
@@ -148,3 +152,7 @@ nav {
         
         padding-top: 80px; /* Relleno superior igual a la altura de la cabecera*/
     }
+
+	#imag{
+		width: 12%;
+	}

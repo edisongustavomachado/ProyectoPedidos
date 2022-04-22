@@ -48,7 +48,7 @@ img {
         color: #ffec1b;
 	}
     #Logo .NombreSitio:hover {		
-        color: rgb(242, 248, 71);
+        color: rgb(253, 253, 253);
 
 	}
 	#Logo .Artículos {
@@ -91,7 +91,7 @@ nav {
 	width: 90%;
 	max-width: 800px;
 	margin: 20px auto;
-	box-shadow: 0 0 10px rgba(0,0,0,.1);
+	box-shadow: 0 0 10px rgb(0,0,0,.1);
 }
 	#Contenido header {
 		padding: 40px;
@@ -105,9 +105,15 @@ nav {
 		background: white;		
 		width: 80%;
 		margin: 20px auto;
-		box-shadow: 0 0 10px rgba(0,0,0,.1);
-		border: 1px solid #000;
+		box-shadow: 0 0 10px rgb(187, 185, 182);
+		border: 1px solid rgb(247, 197, 47);
 		border-collapse: collapse;
+		
+		
+	}
+	tbody>tr:hover{
+		background-color: #e5e5dd;
+		color: rgb(3, 3, 3);
 	}
 	thead tr th {
 		text-align: center;
@@ -115,13 +121,14 @@ nav {
 	th, td {		
 		text-align: left;
 		vertical-align: top;
-		border: 1px solid #000;	
+		border: 1px solid rgb(247, 246, 242);	
 		caption-side: bottom;
 	 }
 	 caption {
 		padding: 0.3em;
 		color: #fff;
 		 background: rgb(249, 211, 59);
+		 box-shadow: 0 0 10px rgb(187, 185, 182);
 	 }
 	 th {
 		background: #eee;
@@ -146,11 +153,18 @@ nav {
 }
 	#Footer p {
 		margin: 0;
-	}
-	
+	}	
 	#Footer a {
 		color: white;
 	}
+	#Footer img{
+		width: 2%;
+	}
+
+
+
+	
+
     #Cabecera {
         background: #333;
         color: white;
@@ -172,3 +186,7 @@ nav {
         
         padding-top: 80px; /* Relleno superior igual a la altura de la cabecera*/
     }
+
+	#imag{
+		width: 12%;
+	}

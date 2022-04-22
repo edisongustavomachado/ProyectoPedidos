@@ -13,3 +13,6 @@ footer{
     background-color: rgb(41, 40, 39);
     color: white;
 }
+#Footer img{
+    width: 2%;
+}

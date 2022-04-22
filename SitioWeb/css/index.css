@@ -49,7 +49,7 @@ img {
         color: #ffec1b;
 	}
     #Logo .NombreSitio:hover {		
-		color: rgb(242, 248, 71);
+		color: rgb(246, 246, 243);
 		
 	}
 	#Logo .Artículos {
@@ -141,4 +141,7 @@ nav ul li {
         
         padding-top: 80px; /* Relleno superior igual a la altura de la cabecera*/
     }
+	#imag{
+		width: 12%;
+	}
 
